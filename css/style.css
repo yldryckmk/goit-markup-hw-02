@@ -14,7 +14,7 @@ body {
     color: #ffffff;
     text-align: center;
 }
-.button.style{
+.button-style{
     background-color: #4d5ae5;
     color: #ffffff;
     font-weight: 500;
@@ -24,7 +24,7 @@ body {
     font-family: "Roboto",sans-serif;
 }
 .button-style:hover,
-.button-stlye:focus {
+.button-style:focus {
     background-color: #404bbf;
     color:#ffffff;
     cursor:pointer;
